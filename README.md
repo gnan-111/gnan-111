@@ -20,7 +20,7 @@
 
 </td>
     <td style="width:30%; text-align:center;">
-      <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" alt="Profile Photo" width="180" style="border-radius:50%; border: 2px solid #ccc;" />
+      <img src="https://github.com/gnan-111/gnan-111/blob/main/Hero%20image.png" alt="Profile Photo" width="180" style="border-radius:50%; border: 2px solid #ccc;" />
     </td>
   </tr>
 </table>
