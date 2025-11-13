@@ -67,11 +67,6 @@ Skilled in designing scalable backend systems using **ASP.NET Core**, and buildi
 ---
 
 ### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Gnaneswar Sai GitHub stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </p>
