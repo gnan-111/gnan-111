@@ -5,22 +5,22 @@
 
 <table>
   <tr>
-    <td style="width:70%; vertical-align: top;">
+    <td style="width:50%; vertical-align: top;">
 
-<h1 align="left">Hi 👋, I'm Gnaneswar Sai</h1>
+<h1 align="left">H, I'm Gnaneswar Sai</h1>
 <h3 align="left">.NET Fullstack Developer | Architecting Scalable Solutions with C# & React</h3>
 
-🚀 Passionate **.NET Fullstack Developer** with over **2+ years of experience** in architecting and developing enterprise-grade web applications at **HCLTech, Bengaluru**.  
-💡 Skilled in designing scalable backend systems using **ASP.NET Core**, and building intuitive **React** frontends with **modern UI/UX principles**.  
+Passionate **.NET Fullstack Developer** with over **2+ years of experience** in architecting and developing enterprise-grade web applications at **HCLTech, Bengaluru**.  
+Skilled in designing scalable backend systems using **ASP.NET Core**, and building intuitive **React** frontends with **modern UI/UX principles**.  
 
 📍 **Location:** Bengaluru, Karnataka, India  
 💻 **Company:** HCLTech  
 🔗 **LinkedIn:** [Gnaneswar Sai](https://www.linkedin.com/in/gnaneswarsai/)  
-📧 **Email:** *your.email@example.com*
+📧 **Email:** *gnaneswarsai.b@gmail.com*
 
 </td>
-    <td style="width:30%; text-align:center;">
-      <img src="https://github.com/gnan-111/gnan-111/blob/main/Hero%20image.png" alt="Profile Photo" width="180" style="border-radius:50%; border: 2px solid #ccc;" />
+    <td style="width:50%;">
+      <img src="https://github.com/gnan-111/gnan-111/blob/main/Hero%20image.png" alt="Profile Photo" width="1500" style="border-radius:50%; border: 2px solid #ccc;" />
     </td>
   </tr>
 </table>
@@ -91,13 +91,15 @@
 ### 💬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gnaneswarsai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gnaneswarsai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
