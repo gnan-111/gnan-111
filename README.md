@@ -1,10 +1,9 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/dotnet-maui.gif" alt=".NET MAUI Animation" width="800" />
+  <img src="https://github.com/gnan-111/gnan-111/blob/main/Gnan%20GitBanner.png" alt=".NET MAUI Animation" width="1080" />
 </p>
 
 <table>
-  <tr>
     <td style="width:50%; vertical-align: top;">
 
 <h1 align="left">H, I'm Gnaneswar Sai</h1>
@@ -22,7 +21,6 @@ Skilled in designing scalable backend systems using **ASP.NET Core**, and buildi
     <td style="width:50%;">
       <img src="https://github.com/gnan-111/gnan-111/blob/main/Hero%20image.png" alt="Profile Photo" width="1500" style="border-radius:50%; border: 2px solid #ccc;" />
     </td>
-  </tr>
 </table>
 
 ---
