@@ -84,11 +84,11 @@ Skilled in designing scalable backend systems using **ASP.NET Core**, and buildi
 ### 💬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gnaneswarsai/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/gnaneswar-sai-880538206/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:gnaneswarsai.b@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
