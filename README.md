@@ -28,8 +28,10 @@ Skilled in designing scalable backend systems using **ASP.NET Core**, and buildi
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a> <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a> 
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a> 
+  <a href="https://graphql.org" target="_blank"><img src="https://github.com/gnan-111/gnan-111/blob/main/EFCore.svg" width="40" height="40"/></a> 
+  <a href="https://graphql.org" target="_blank"><img src="https://github.com/gnan-111/gnan-111/blob/main/NuGet_project_logo.svg.svg" width="40" height="40"/></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a> 
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a> 
@@ -42,6 +44,7 @@ Skilled in designing scalable backend systems using **ASP.NET Core**, and buildi
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a> 
+  <a href="https://graphql.org" target="_blank"><img src="https://github.com/gnan-111/gnan-111/blob/main/swagger%20(1).svg" width="40" height="40"/></a> 
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a> 
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a> 
