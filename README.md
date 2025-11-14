@@ -6,7 +6,7 @@
 <table>
     <td style="width:50%; vertical-align: top;">
 
-<h1 align="left">H, I'm Gnaneswar Sai</h1>
+<h1 align="left">Hi, I'm Gnaneswar Sai</h1>
 <h3 align="left">.NET Fullstack Developer | Architecting Scalable Solutions with C# & React</h3>
 
 Passionate **.NET Fullstack Developer** with over **2+ years of experience** in architecting and developing enterprise-grade web applications at **HCLTech, Bengaluru**.  
